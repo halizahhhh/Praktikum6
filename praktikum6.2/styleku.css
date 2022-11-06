@@ -1,0 +1,97 @@
+body {
+    background-color: lightgoldenrodyellow;
+    border-style: solid;
+}
+#header {
+    background-color: lightpink;
+    padding: 30px;
+}
+h1 {
+    font-family: fantasy;
+    font-size: 70px;
+    text-align: center;
+    color: blueviolet;
+}
+blockquote {
+    font-family: 'Lucida Sans', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    background-color: lightcoral;
+    margin-left: auto;
+    margin-right: auto;
+    color: darkmagenta;
+}
+.list1 {
+    list-style-type: none;
+    margin: 2%;
+    padding: 1px;
+    text-align: center;
+    font-size: 20px;
+}
+.gambar {
+    text-align: center;
+}
+.isi {
+   text-align: justify;
+   font-size: 25px; 
+   margin-left: 1%;
+    margin-right: 1%;
+}
+.jawa {
+    font-size: 40px;
+    color: palevioletred;
+}
+b {
+    font-size: 60px;
+    color: palevioletred;
+}
+#profil {
+    text-align: justify;
+    margin-right: 1%;
+    margin-left: 1%;
+}
+h3 {
+    background-color: lightpink;
+    font-size: 45px;
+    color: blueviolet;
+    margin-right: 2%;
+}
+.list2 {
+    font-size: 20px;
+    list-style: square;
+    margin-left: 1%;
+    margin-right: 2%;
+}
+#beternak {
+    text-align: justify;
+    margin-right: 1%;
+    margin-left: 1%;
+}
+.list3 {
+    font-size: 20px;
+    list-style: none;
+    margin-left: 1%;
+    margin-right: 2%;
+}
+h4 {
+    text-align: center;
+    font-size: 25px;
+    color: darkmagenta;
+    font-family: 'Lucida Sans', Verdana, sans-serif;
+}
+.koleksi {
+    background-color: lightpink;
+}
+.promo {
+    font-size: 30px;
+    font-family: 'Lucida Sans', Verdana, sans-serif;
+    text-align: center;
+    color: darkmagenta;
+    padding-right: 5%;
+    padding-left: 5%;
+}
+#last {
+    font-size: 20px;
+    list-style: none;
+    text-align: center;
+}
